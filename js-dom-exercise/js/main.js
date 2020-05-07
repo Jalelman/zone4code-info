@@ -74,6 +74,7 @@ function question3(){
 /**
  * Question 8:
  * Have the following code execute when button 8 is clicked.
+ * var URL = http://www.sportune.fr/wp-content/uploads/2017/12/Cristiano-Ronaldo-jet.jpg
  * var x = document.getElementById("mySource").src  sourceObject.src = URL 
  */
 
