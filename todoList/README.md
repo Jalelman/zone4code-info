@@ -1,0 +1,1 @@
+The purpose of this Todo List mini project is to practice your "js dom" skills and consolidate your understanding of The Elm Architecture  by creating a "real world" useable App following screenshot todolist.
